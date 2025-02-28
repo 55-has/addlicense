@@ -84,3 +84,4 @@ repos:
 Apache 2.0
 
 This is not an official Google product.
+LICENSE
